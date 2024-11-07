@@ -1,0 +1,7 @@
+name: LifeAndPower
+version: 1.0
+main: com.juhwan.LifeAndPower
+description: A plugin that provides life and power features for RPG gameplay.
+commands:
+  골드:
+    description: 플레이어의 소지금을 조회합니다.
